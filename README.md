@@ -1,4 +1,4 @@
-# Harbor HR
+# Harbor HR on Vercel
 
 Editorial landing page for on-demand HR counsel for service businesses.
 
@@ -8,4 +8,4 @@ Open `index.html` in a browser, or serve the folder with any static file server.
 
 ## Deploy
 
-Configured for [Netlify](https://www.netlify.com/) via `netlify.toml`.
+Deployed on [Vercel](https://vercel.com/) as a static site.
